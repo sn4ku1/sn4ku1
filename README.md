@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sn4ku1
 - 👀 I’m interested in Pen Testing.
-- 🌱 I’m currently learning Cyber Security.
+- 🌱 I’m currently learning Web Security.
 - 💞️ I’m looking for internship in Ethical Hacking.
 - 📫 Reach me on Linkedin(sn4ku1).
 <!---

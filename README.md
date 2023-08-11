@@ -1,4 +1,1 @@
 - 👋 Hi, I’m @sn4ku1
-- 👀 I’m interested in Pen Testing.
-- 🌱 I’m currently learning Web Security.
-- 💞️ I’m looking for job roles in Cyber Security field.

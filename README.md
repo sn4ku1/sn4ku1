@@ -12,7 +12,7 @@ I specialize in securing web applications, performing threat modeling, pentestin
 ---
 
 ### 🧩 Freelance Pentesting
-Available for freelance penetration testing (Web apps • APIs • Mobile • Cloud • Cloud • Infra).  
+Available for freelance penetration testing (Web apps • APIs • Mobile • Cloud • Infra).  
 📁 **Portfolio:** https://sn4ku1.github.io
 
 ---

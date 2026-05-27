@@ -1,5 +1,5 @@
 # 👋 Hey, I'm @sn4ku1  
-🔐 **Application Security Engineer**
+🔐 **Security Software Engineer**
 
 I specialize in securing web applications, performing threat modeling, pentesting, and helping teams build secure-by-design software.
 
